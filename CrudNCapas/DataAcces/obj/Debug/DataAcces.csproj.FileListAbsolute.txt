@@ -1,0 +1,9 @@
+C:\Users\Dell\Documents\crud\CrudNCapas\DataAcces\bin\Debug\DataAcces.dll
+C:\Users\Dell\Documents\crud\CrudNCapas\DataAcces\bin\Debug\DataAcces.pdb
+C:\Users\Dell\Documents\crud\CrudNCapas\DataAcces\bin\Debug\Common.dll
+C:\Users\Dell\Documents\crud\CrudNCapas\DataAcces\bin\Debug\Common.pdb
+C:\Users\Dell\Documents\crud\CrudNCapas\DataAcces\obj\Debug\DataAcces.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\crud\CrudNCapas\DataAcces\obj\Debug\DataAcces.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\crud\CrudNCapas\DataAcces\obj\Debug\DataAcces.csproj.CopyComplete
+C:\Users\Dell\Documents\crud\CrudNCapas\DataAcces\obj\Debug\DataAcces.dll
+C:\Users\Dell\Documents\crud\CrudNCapas\DataAcces\obj\Debug\DataAcces.pdb
